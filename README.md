@@ -1,5 +1,5 @@
 # openweather-API
-School assignment of how to use JSON and extract data from openweathermap.org
+An assignment of how to use JSON and extract data from openweathermap.org
 
 NOTE: API key from OpenWeather is currently missing. Get a specific API key from openweathermap.org
 
